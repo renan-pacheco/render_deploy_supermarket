@@ -3,3 +3,5 @@ pandas~=2.2.2
 numpy~=2.1.0
 plotly~=5.23.0
 gunicorn
+dash_bootstrap_templates
+dash_bootstrap_components
